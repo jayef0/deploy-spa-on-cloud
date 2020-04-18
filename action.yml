@@ -1,5 +1,5 @@
 # action.yml
-name: 'Deploy Single Page Application on Cloud Action'
+name: 'Deploy Single Page Application on Cloud'
 description: 'Allows automated deployment of your single page application into the cloud on a server or on cloud storage via Github Actions.'
 author: 'Janfabian Fabriczek <janfabian@fabriczek.engineer>'
 branding:
