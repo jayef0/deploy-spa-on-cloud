@@ -4,7 +4,7 @@ description: 'Allows automated deployment of your single page application into t
 author: 'Janfabian Fabriczek <janfabian@fabriczek.engineer>'
 branding:
   icon: cloud
-  color: blue
+  color: yellow
 inputs:
 outputs:
 runs:
